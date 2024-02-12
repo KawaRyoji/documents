@@ -66,6 +66,7 @@
 - カーネル / カーネルサイズ (Kernel / Kernel size)
 - パディング (Padding)
 - ストライド (Stride)
+- 受容野 (Receptive field)
 - 拡張/膨張畳み込み (Dilated convolution)
 - Depthwise convolution
 - Pointwise convolution
